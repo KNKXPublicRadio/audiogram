@@ -245,7 +245,7 @@ g.time line {
 #loading-message {
   font-size: 24px;
   text-align: center;
-  color: #de1e3d;
+  color: #e6673e;
 }
 
 #loading-bars {
@@ -257,9 +257,9 @@ g.time line {
 }
 
 #loading-bars > div {
-  background-color: #de1e3d;
+  background-color: #e6673e;
   height: 100%;
-  width: 16px;
+  width: 19px;
   margin-right: 3px;
   display: inline-block;
   -webkit-animation: sk-stretchdelay 1.2s infinite ease-in-out;
