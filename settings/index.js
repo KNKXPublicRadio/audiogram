@@ -22,8 +22,8 @@ module.exports = {
   workingDirectory: path.join(__dirname, "..", "tmp"),
   storagePath: path.join(__dirname, "..", "media"),
   //	s3Bucket:'knkx-audiogram',
-  redisHost: '127.0.0.1',
-  worker: true,
+  // redisHost: '127.0.0.1',
+ //  worker: true,
 	
   fonts: [
     { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Regular.ttf") },
